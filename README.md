@@ -13,11 +13,11 @@ I installed the "photo album" project on Node.js
    npm install blueimp-file-upload --save
    npm install cloudinary-jquery-file-upload --save
    
-#Exercise 1:
+# Exercise 1:
 
 In /controllers/photo_controller.js, change 'tag' to "width_height_500" and set width: 500, height: 500, crop: "limit"
 
-#Exercise 2:
+# Exercise 2:
 
 1. Upload Cloudinary logo image to my own asset.
 2. In /views/photos/index.ejs, add two more tansformation.
@@ -26,7 +26,7 @@ In /controllers/photo_controller.js, change 'tag' to "width_height_500" and set 
      overlay: "yais6gcdxppuedri9ixj", gravity: "south_east", x: 5, y: 5, width: 200, opacity: 60, effect: "brightness:200"} },
    { crop : "scale", height : 150, width : 150 , effect: "saturation:50"}
    
-#Bonus:
+# Bonus:
  
 Use jQuery and blueimp-file-upload to take care of all different upload methods of the app, server side, signed direct/client-side uploads and unsigned direct/client-side uploads
              
