@@ -4,8 +4,8 @@ I installed the "photo album" project on Node.js
 
 1. Clone from Github
 2. Copy the Enviroment variable configuration parameters from Cloudinary's Management Console of my account into .env file of the project.
-3. Run npm install to install all the required dependencies.
-4. Run npm start to start the server.
+3. Run 'npm install' to install all the required dependencies.
+4. Run 'npm start' to start the server.
 5. Open the page in a browser: http://localhost:9000
 6. Install the jQuery library using a package manager
  
