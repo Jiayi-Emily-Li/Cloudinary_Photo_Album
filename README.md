@@ -9,8 +9,10 @@ I installed the "photo album" project on Node.js
 5. Open the page in a browser: http://localhost:9000
 6. Install the jQuery library using a package manager
  
-   npm install jquery --save
+   npm install jquery --save 
+   
    npm install blueimp-file-upload --save
+   
    npm install cloudinary-jquery-file-upload --save
    
 # Exercise 1:
